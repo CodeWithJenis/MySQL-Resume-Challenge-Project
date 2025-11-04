@@ -1,3 +1,5 @@
+### Note: Datasets folder has been delted please download the resources from the codebasics: https://codebasics.io/challenges/codebasics-resume-project-challenge/7 [get recources from here]
+
 # 📊 Ad-Hoc Data Insights in Consumer Goods using MySQL & Power BI
 
 This project is based on the **Codebasics Resume Challenge - Round 4**, where the goal was to **solve 10 real-world ad-hoc business requests** for an imaginary company called **AtliQ Hardwares**, a consumer goods manufacturer.
